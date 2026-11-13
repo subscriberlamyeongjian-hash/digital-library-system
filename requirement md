@@ -2,3 +2,4 @@ system requirement:digital library v1.0
 1. user can search for books by title
 2. user can borrow a book for up to 14 days
 3. admin can add new book to the catalog
+4. user can read digital e-book online
